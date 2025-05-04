@@ -14,7 +14,7 @@ The project involves the following steps:
 
 ## Dataset
 
-The project uses the "Twitter Entity Sentiment Analysis" dataset available on Kaggle. This dataset contains tweets labeled with their corresponding sentiment (positive, negative, or neutral).
+The project uses the "[Twitter Entity Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)" dataset available on Kaggle. This dataset contains tweets labeled with their corresponding sentiment (positive, negative, or neutral).
 
 ## Requirements
 
@@ -28,6 +28,12 @@ To run this project, you will need the following libraries:
 - matplotlib
 - numpy
 - re
+
+You can install these libraries using pip:
+ 
+```bash
+pip install pandas scikit-learn tensorflow deap matplotlib numpy
+```
 
 ## Usage
 
