@@ -29,12 +29,6 @@ To run this project, you will need the following libraries:
 - numpy
 - re
 
-You can install these libraries using pip:
-
-```bash
-pip install pandas scikit-learn tensorflow deap matplotlib numpy
-```
-
 ## Usage
 
 1. Clone this repository to your local machine.
